@@ -1,6 +1,7 @@
 1- prendi la pentola
-2- prendi un dosatore
-3- dosa l'acqua
-4- riempi la pentola di acqua
-5- metti la pentola sul gas
-6- metti il coperchio 
+2- riempila di acqua
+3- metti la pentola sul gas
+4- metti il coperchio 
+5- metti sugo in un pentolino
+6- aggiungi un po di olio
+
